@@ -1,0 +1,16 @@
+{
+  "name": "reel-renderer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render-scene": "node render-scene.mjs"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.2.5",
+    "@remotion/bundler": "4.0.372",
+    "@remotion/renderer": "4.0.372",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.372"
+  }
+}
